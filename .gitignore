@@ -1,0 +1,8 @@
+.DS_Store
+.claude/
+.remember/
+.playwright-mcp/
+.firecrawl/
+__pycache__/
+*.pyc
+.env
